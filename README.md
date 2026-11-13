@@ -1,0 +1,2 @@
+# YGOPro_cdb_SC_name_Converter
+把YGOPro或其衍生版本的卡名翻译转换为简中官方版。
